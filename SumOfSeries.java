@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class SumOfSeries {
 //this code contains the sum of series
-//1 + 1/2 + 1/3 + 1/4 + 1/5....1/n
+//1 + 1/2 + 1/3 + 1/4 + 1/5 + 1/6....1/n
 public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);
